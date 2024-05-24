@@ -1,0 +1,32 @@
+{
+
+"modo de desarrollo": false,
+
+"nombre de la estacion": {
+
+    "nombre de la localidad": "Sueca", 
+    "nombre de la entidad menor": "Mareny de Barraquetes", 
+    "nombre de la partida": "Materal", 
+    "nombre de la estacion": "Ambulatori", 
+    "coordenadas de la ubicacion en grados decimales": {"latitud": 45, "longitud": 45}
+}, 
+
+"id estacion": "1111",
+
+"id red": "0000",
+
+"password de red": "pass",
+
+"sensores disponibles":{
+    
+    "termometro": true, 
+    "higrometro": true, 
+    "pluviometro": false, 
+    "anemometro": false, 
+    "veleta": false, 
+    "barometro": true
+}, 
+
+"frecuencia de envio de datos en segundos": 60
+
+}
